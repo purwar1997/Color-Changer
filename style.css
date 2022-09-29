@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#btn {
+  padding: 22px 35px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Segoe UI";
+  color: #fff;
+  background-color: #333;
+  border: 0;
+  border-radius: 40px;
+  cursor: pointer;
+}
