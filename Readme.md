@@ -9,4 +9,8 @@
 
 A simple DOM project which changes background color of web page whenever a button is clicked. This project is created using HTML, CSS and Javascript.
 
+### Preview of the project :-
+
+![Preview](./preview.png)
+
 ### [Live link](https://color-changer-feex.vercel.app/) of the project
